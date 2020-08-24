@@ -1,0 +1,15 @@
+{
+  "name": "1.0",
+  "version": "1.0.0",
+  "description": "Projeto teste GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "npm"
+  ],
+  "author": "Pedrinho",
+  "license": "MIT"
+}
