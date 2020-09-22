@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* { 
+  background-color: grey;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+}
+
+.div1{
+  display: flex; /* preenche a tela toda */
+  flex-direction: column; /* poderia ser "row", que seria um do lado do outro*/
+  align-items: center; 
+  height: 90vh; /*view port height*/
+  text-align: center;
+  background-color: gray;
+}
+
+button{
+  background-color: darkgray;
+  border: 1px solid white;
+  padding: 10px 10px; /*distanciamento do texto do botão e margem do botão*/
+  font-size: 20px;
+  margin-top: 10px; /*muda o distanciamento do botão e da imagem que está acima*/
+  cursor: pointer; /*muda o cursor quando passa o mouse*/
+  color: black;
+  border-radius: 10px; /*borda arredondada*/
+
+}
+
+button:hover{
+  background-color: lightgray;
+
+}
