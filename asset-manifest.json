@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trabalho_api_cep/api_financeira/static/css/main.37396a49.chunk.css",
+    "main.js": "/trabalho_api_cep/api_financeira/static/js/main.b1b36e12.chunk.js",
+    "main.js.map": "/trabalho_api_cep/api_financeira/static/js/main.b1b36e12.chunk.js.map",
+    "runtime-main.js": "/trabalho_api_cep/api_financeira/static/js/runtime-main.cd2240af.js",
+    "runtime-main.js.map": "/trabalho_api_cep/api_financeira/static/js/runtime-main.cd2240af.js.map",
+    "static/js/2.9cd17600.chunk.js": "/trabalho_api_cep/api_financeira/static/js/2.9cd17600.chunk.js",
+    "static/js/2.9cd17600.chunk.js.map": "/trabalho_api_cep/api_financeira/static/js/2.9cd17600.chunk.js.map",
+    "index.html": "/trabalho_api_cep/api_financeira/index.html",
+    "precache-manifest.a822ed089d0f4b989cc738184d59498d.js": "/trabalho_api_cep/api_financeira/precache-manifest.a822ed089d0f4b989cc738184d59498d.js",
+    "service-worker.js": "/trabalho_api_cep/api_financeira/service-worker.js",
+    "static/css/main.37396a49.chunk.css.map": "/trabalho_api_cep/api_financeira/static/css/main.37396a49.chunk.css.map",
+    "static/js/2.9cd17600.chunk.js.LICENSE.txt": "/trabalho_api_cep/api_financeira/static/js/2.9cd17600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd2240af.js",
+    "static/js/2.9cd17600.chunk.js",
+    "static/css/main.37396a49.chunk.css",
+    "static/js/main.b1b36e12.chunk.js"
+  ]
+}
