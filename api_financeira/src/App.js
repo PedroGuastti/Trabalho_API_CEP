@@ -29,11 +29,20 @@ function App(){
     return(
         
         <div className = "principal">
-            <input name='CEP' placeholder='Digite o seu CEP' onKeyUp={e => setEmpresa(e.target.value)}/>
+            <div className = "secundaria">
+                <h1>Obter Informações de Endereço</h1>
 
-            <button type='button' onClick={obterDados}>
-                Obter Informações de Endereço
-            </button>
+                <input name='CEP' placeholder='Digite o seu CEP' onKeyUp={e => setEmpresa(e.target.value)}/>
+
+                <button type='button' onClick={obterDados}>
+                    Obter Dados
+                </button>
+            </div>
+
+
+  
+
+
 
             <p>
                 {dados.logradouro}
